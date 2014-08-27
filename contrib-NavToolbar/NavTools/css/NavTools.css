@@ -1,48 +1,48 @@
-.gis_NavToolbarDijit {
+.gis_NavToolsDijit {
 }
 
-.gis_NavToolbarDijit .zoominIcon {
+.gis_NavToolsDijit .zoominIcon {
     background-image: url(../images/nav_zoomin.png);
     width: 16px;
     height: 16px;
 }
 
- .gis_NavToolbarDijit .zoomoutIcon {
+ .gis_NavToolsDijit .zoomoutIcon {
 	background-image: url(../images/nav_zoomout.png);
 	width: 16px;
 	height: 16px;
 }
 
-.gis_NavToolbarDijit .zoomfullextIcon {
+.gis_NavToolsDijit .zoomfullextIcon {
 	background-image: url(../images/nav_fullextent.png);
 	width: 16px;
 	height: 16px;
 }
 
-.gis_NavToolbarDijit .zoomprevIcon {
+.gis_NavToolsDijit .zoomprevIcon {
 	background-image: url(../images/nav_previous.png);
 	width: 16px;
 	height: 16px;
 }
 
- .gis_NavToolbarDijit .zoomnextIcon {
+ .gis_NavToolsDijit .zoomnextIcon {
 	background-image: url(../images/nav_next.png);
 	width: 16px;
 	height: 16px;
 }
 
-.gis_NavToolbarDijit .panIcon {
+.gis_NavToolsDijit .panIcon {
 	background-image: url(../images/nav_pan.png);
 	width: 16px;
 	height: 16px;
 }
 
-.gis_NavToolbarDijit .deactivateIcon {
+.gis_NavToolsDijit .deactivateIcon {
 	background-image: url(../images/nav_decline.png);
 	width: 16px;
 	height: 16px;
 }
-.gis_NavToolbarDijit .formContainer {
+.gis_NavToolsDijit .formContainer {
     /*border: 1px solid #bbb;*/
     margin-bottom: -1px;
     width: 100%;
