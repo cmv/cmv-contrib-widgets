@@ -1,6 +1,6 @@
 # cmv-contrib-widgets
 
-User contributed widgets for [Configurable Map Viewer]() (CMV) project.
+User contributed widgets for [https://github.com/DavidSpriggs/ConfigurableViewerJSAPI]() (CMV) project.
 
 # Contributing
 To list your widget, simply add a link to your repo in the list below via a Pull Request.
