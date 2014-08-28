@@ -15,3 +15,4 @@ Please follow these guidelines:
 # Widgets
 
 1. [Navigation Toolbar](https://github.com/friendde/ArcGIS_JS_NavigationTools). A toolbar for simple map navigation including previous and next extent tracker.
+2. [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel). TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow
