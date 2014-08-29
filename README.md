@@ -13,7 +13,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 
 ## Contributing
 
-To list your widget, simply add a row to the above widgets table with a link to your repo and description via a Pull Request.
+Create a repo for your widget. To list your widget here, simply add a row to the above widgets table with a link to your repo and description via a Pull Request.
 
 Please follow these guidelines:
 
