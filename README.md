@@ -13,6 +13,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [Layer Swapper](https://github.com/jebu75/cmv-layer-swapper) | Title pane widget to allow swapping in/out a configurable list of dynamic or tile layers. |
 | [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections. |
 | [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
+| [App Settings](https://github.com/roemhildtg/CMV_Widgets/tree/master/AppSettings_Widget) | Allows the user to save and share the current state of the map extent and visible layers via localStorage and URL |
 
 ## Contributing
 
