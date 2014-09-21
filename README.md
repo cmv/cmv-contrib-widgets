@@ -8,12 +8,12 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 
 | Widget | Description |
 | :----: | ----------- |
-| [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
-| [Navigation Toolbar](https://github.com/friendde/ArcGIS_JS_NavigationTools) | A toolbar for simple map navigation including previous and next extent tracker. |
-| [Layer Swapper](https://github.com/jebu75/cmv-layer-swapper) | Title pane widget to allow swapping in/out a configurable list of dynamic or tile layers. |
-| [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections. |
-| [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
 | [App Settings](https://github.com/roemhildtg/CMV_Widgets/tree/master/AppSettings_Widget) | Allows the user to save and share the current state of the map extent and visible layers via localStorage and URL |
+| [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
+| [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
+| [Layer Swapper](https://github.com/jebu75/cmv-layer-swapper) | Title pane widget to allow swapping in/out a configurable list of dynamic or tile layers. |
+| [Navigation Toolbar](https://github.com/friendde/ArcGIS_JS_NavigationTools) | A toolbar for simple map navigation including previous and next extent tracker. |
+| [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections. |
 | [Related Records](https://github.com/roemhildtg/CMV_Widgets/tree/master/RelatedRecordTable_Widget) | Queries related records of feature layers and displays results in a tabbed dgrid tables. |
 
 ## Contributing
