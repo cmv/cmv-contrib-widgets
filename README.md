@@ -9,10 +9,10 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | Widget | Description |
 | :----: | ----------- |
 | [App Settings](https://github.com/roemhildtg/CMV_Widgets/tree/master/AppSettings_Widget) | Allows the user to save and share the current state of the map extent and visible layers via localStorage and URL. |
-| [Attributes Tables](https://github.com/tmcgee/cmv-widgets/) | A highly configurable widget to display the results of one or more QueryTasks. |
-| [Disclaimer](https://github.com/tmcgee/cmv-widgets/) | A simple yet configurable disclaimer widget. |
+| [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) | A highly configurable widget to display the results of one or more QueryTasks. |
+| [Disclaimer](https://github.com/tmcgee/cmv-widgets#disclaimer) | A simple yet configurable disclaimer widget. |
 | [Drag and Drop](http://github.com/BrianBunker/cmv-widgets/tree/master//DnD) | Add data to the map viewer by dragging and dropping resources onto the map or widget. |
-| [Export](https://github.com/tmcgee/cmv-widgets/) |Export features from the Attributes Tables widget or other widgets that have a [dgrid](http://dgrid.io). |
+| [Export](https://github.com/tmcgee/cmv-widgets#export) | Export features from the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets that have a [dgrid](http://dgrid.io). |
 | [Extract](https://github.com/tr3vorm/cmv-extract-widget) | TitlePane widget to extract selected layer from current extents using geoprocessing tool  (clip and ship). |
 | [Goto Coordinate](http://github.com/BrianBunker/cmv-widgets/tree/master//Goto) | Center the map at a specific location in geographic, UTM, or MGRS coordinates. |
 | [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
@@ -23,7 +23,8 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [Nearby](http://github.com/BrianBunker/cmv-widgets/tree/master//Nearby) | Discover features within a radius or drivetime of a map click location. |
 | [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections, and for showing a specified location. |
 | [Related Records](https://github.com/roemhildtg/CMV_Widgets/tree/master/RelatedRecordTable_Widget) | Queries related records of feature layers and displays results in a tabbed dgrid tables. |
-| [Search](https://github.com/tmcgee/cmv-widgets/) | Used in conjunction with the Attributes Tables widget to provide a user interface for querying feature layers, tables and related records. |
+| [Search](https://github.com/tmcgee/cmv-widgets#search) | Used in conjunction with the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget to provide a user interface for querying feature layers, tables and related records. |
+| [Zoom To Feature](https://github.com/tmcgee/cmv-widgets#zoom-to-feature) | A simple widget to provide a drop-down list of features to zoom the map to. Similar to bookmarks but driven by actual data in a Map Service. |
 
 ## Contributing
 
