@@ -15,6 +15,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [Disclaimer](https://github.com/tmcgee/cmv-widgets#disclaimer) | A simple yet configurable disclaimer widget. |
 | [Drag and Drop](http://github.com/BrianBunker/cmv-widgets/tree/master//DnD) | Add data to the map viewer by dragging and dropping resources onto the map or widget. |
 | [Dynamic Feature Layer Renderer ](https://github.com/vojvod/CMV_Renderer_Widget) | It renders and adds a feature layer on the map dynamically. It can be used for map services hosted in ArcGIS for Server version 10.1 or above. |
+| [ElevationsProfile](https://github.com/ERS-Long/ElevationsProfile) | TitlePane widget to draw elevation profile. |
 | [Export](https://github.com/tmcgee/cmv-widgets#export) | Export features from the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets that have a [dgrid](http://dgrid.io). |
 | [Extract](https://github.com/tr3vorm/cmv-extract-widget) | TitlePane widget to extract selected layer from current extents using geoprocessing tool  (clip and ship). |
 | [Goto Coordinate](http://github.com/BrianBunker/cmv-widgets/tree/master//Goto) | Center the map at a specific location in geographic, UTM, or MGRS coordinates. |
