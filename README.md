@@ -23,6 +23,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
 | [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
 | [Layer Swapper](https://github.com/jebu75/cmv-layer-swapper) | Title pane widget to allow swapping in/out a configurable list of dynamic or tile layers. |
+| [Map Refresh Timer Widget](https://github.com/vojvod/CMV_MapRefreshTimer_Widget) | It refreshes the map layers periodically. You can set the preferred map layers and the refresh timer interval. |
 | [Metadata Dialog](https://github.com/roemhildtg/CMV_Widgets#metadatadialog) | Query and display the sublayers metadata dialog using the dynamic sublayer menu. |
 | [Navigation Hash](http://github.com/BrianBunker/cmv-widgets/tree/master//MapNavigationHash) | Display the map center point in the url and use the browser back/forward buttons as previous/next extent buttons. |
 | [Navigation Toolbar](https://github.com/friendde/ArcGIS_JS_NavigationTools) | A toolbar for simple map navigation including previous and next extent tracker. |
