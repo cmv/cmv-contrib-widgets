@@ -40,6 +40,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [Share](https://github.com/tmcgee/cmv-widgets#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
 | [TimeSlider](https://github.com/roemhildtg/CMV_Widgets#timeslider) | Control the current display of all time enabled layers on the map using a simple Esri TimeSlider widget. |
 | [TimeSlider Advanced](https://github.com/vojvod/CMV_TimeSlider_Widget) | Control all time enabled layers on the map. It allows you to set the startTime and endTime dynamically. |
+| [What3Words](https://github.com/tmcgee/cmv-widgets#what3words) | A simple widget to send a 3 word address or lat/lng to what3words and zoom the map to the resulting location. The lat/lng and 3 word address for the location are displayed from the search result. |
 | [Zoom To Feature](https://github.com/tmcgee/cmv-widgets#zoom-to-feature) | A simple widget to provide a drop-down list of features to zoom to on the map. Similar to bookmarks but driven by actual data in a Map Service. |
 
 ## Contributing
