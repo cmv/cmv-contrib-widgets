@@ -19,6 +19,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [ElevationsProfileTable](https://github.com/goriliukasbuxton/ElevationProfile2) | Bottom Pane widget to draw elevation profile. |
 | [Export](https://github.com/tmcgee/cmv-widgets#export) | Export features from the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets that have a [dgrid](http://dgrid.io). |
 | [Extract](https://github.com/tr3vorm/cmv-extract-widget) | TitlePane widget to extract selected layer from current extents using geoprocessing tool  (clip and ship). |
+| [FullScreen](https://github.com/tmcgee/cmv-widgets#fullscreen) | A simple widget containing a button to toggle the CMV map to a maximized full screen view and restore it to the original dimensions. |
 | [Geoprocessor](https://github.com/tmcgee/cmv-widgets#geoprocessor) | An example widget demonstrating the display of results from a Geoprocessing Task in the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget. |
 | [Google nearby](https://github.com/aspetkov/cmv-widgets/tree/master/GoogleNearby) | Discover objects within a radius of a map click location from Google database. |
 | [Goto Coordinate](http://github.com/BrianBunker/cmv-widgets/tree/master//Goto) | Center the map at a specific location in geographic, UTM, or MGRS coordinates. |
