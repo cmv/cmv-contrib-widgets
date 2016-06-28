@@ -44,6 +44,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [TimeSlider Advanced](https://github.com/vojvod/CMV_TimeSlider_Widget) | Control all time enabled layers on the map. It allows you to set the startTime and endTime dynamically. |
 | [What3Words](https://github.com/tmcgee/cmv-widgets#what3words) | A simple widget to send a 3 word address or lat/lng to what3words and zoom the map to the resulting location. The lat/lng and 3 word address for the location are displayed from the search result. |
 | [WMS Basemaps](https://github.com/ishiland/cmv-wms-basemaps) | Simulates a WMS Layer as a basemap by reordering the WMS layer to the bottom layer. This works in place of the core CMV basemap widget. |
+| [Zoom To Extent](https://github.com/evermanwa/Zoom-To-Extent) | Zoom to a specific area on the map based off of a drawn extent. |
 | [Zoom To Feature](https://github.com/tmcgee/cmv-widgets#zoom-to-feature) | A simple widget to provide a drop-down list of features to zoom to on the map. Similar to bookmarks but driven by actual data in a Map Service. |
 
 ## Contributing
