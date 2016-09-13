@@ -38,6 +38,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [PointClustering](https://github.com/ERS-Long/PointClustering) | PointClustering of point sublayer (CMV1.3.4) |
 | [Print Plus](https://github.com/tmcgee/cmv-widgets/tree/master#print-plus) | An updated version of the PrintPlus widget originally created by [@LarryStout](https://github.com/LarryStout). |
 | [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections, and for showing a specified location. |
+| [Query Statistics](https://github.com/cwdotgis/cmv-widgets/tree/master/widgets) | Query summary statistics for a selected feature service's features in the current map view. |
 | [Related Records](https://github.com/roemhildtg/CMV_Widgets#relatedrecordstable) | Queries related records of feature layers and displays results in a tabbed dgrid tables. |
 | [Search](https://github.com/tmcgee/cmv-widgets#search) | Used in conjunction with the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget to provide a user interface for querying feature layers, tables and related records. |
 | [Share](https://github.com/tmcgee/cmv-widgets#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
