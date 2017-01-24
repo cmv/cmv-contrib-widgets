@@ -27,23 +27,29 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [Heatmap Toggle](https://github.com/roemhildtg/CMV_Widgets#heatmap) | Toggle a heat map on point layers using the dynamic sublayer menu. |
 | [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
 | [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
+| [Layer Labels](https://github.com/tmcgee/cmv-widgets/tree/master#layer-labels) | A simple widget to add labels for one or more Feature Layers. |
 | [Layer Swapper](https://github.com/jebu75/cmv-layer-swapper) | Title pane widget to allow swapping in/out a configurable list of dynamic or tile layers. |
+| [Layer Toggle](https://github.com/tmcgee/cmv-widgets/tree/master#layer-toggle) | A simple widget to toggle the visibility of a set of layers. Only a single layer in the set can be visible at any time. All others are turned off when the target layer's visibility is set. |
 | [Map Refresh Timer Widget](https://github.com/vojvod/CMV_MapRefreshTimer_Widget) | It refreshes the map layers periodically. You can set the preferred map layers and the refresh timer interval. |
 | [Map Extent Widget](https://github.com/ERS-Long/MapExtent) | CMV Widget to get map extent and zoom level. |
+| [MessageBox](https://github.com/tmcgee/cmv-widgets/tree/master#messagebox) | Show an Alert or Confirmation modal dialog box. Intended to be called from other widgets. |
 | [Metadata Dialog](https://github.com/roemhildtg/CMV_Widgets#metadatadialog) | Query and display the sublayers metadata dialog using the dynamic sublayer menu. |
 | [Navigation Hash](http://github.com/BrianBunker/cmv-widgets/tree/master//MapNavigationHash) | Display the map center point in the url and use the browser back/forward buttons as previous/next extent buttons. |
 | [Navigation Toolbar](https://github.com/friendde/ArcGIS_JS_NavigationTools) | A toolbar for simple map navigation including previous and next extent tracker. |
 | [Nearby](http://github.com/BrianBunker/cmv-widgets/tree/master//Nearby) | Discover features within a radius or drivetime of a map click location. |
 | [NEXRAD](https://github.com/goriliukasbuxton/Nexrad) | NEXRAD weather radar widget. |
+| [Open External Map](https://github.com/tmcgee/cmv-widgets/tree/master#open-external-map) | Open maps in an external window for Google Hybrid, Google StreetView, Bing Hybrid, Bing Bird's Eye, Bing Streetside, MapQuest and OpenStreetMap. The map is centered on the coordinates based on a map click or Latitude and Longitude values provided by the user. Can be combined with the [Toggle StreetView Tiles](https://github.com/tmcgee/cmv-widgets#toggle-streetview-tiles) widget to show the availability of Google StreetView while clicking on the map. |
 | [PointClustering](https://github.com/ERS-Long/PointClustering) | PointClustering of point sublayer (CMV1.3.4) |
 | [Print Plus](https://github.com/tmcgee/cmv-widgets/tree/master#print-plus) | An updated version of the PrintPlus widget originally created by [@LarryStout](https://github.com/LarryStout). |
 | [Projections](https://github.com/tr3vorm/cmv-projections-widget) | TitlePane widget for showing coordinates in selected projections, and for showing a specified location. |
 | [Query Statistics](https://github.com/cwdotgis/cmv-widgets/tree/master/widgets) | Query summary statistics for a selected feature service's features in the current map view. |
 | [Related Records](https://github.com/roemhildtg/CMV_Widgets#relatedrecordstable) | Queries related records of feature layers and displays results in a tabbed dgrid tables. |
+| [Report](https://github.com/tmcgee/cmv-widgets#report) | Highly configurable widget used to create a mult-page PDF report from a single feature or multiple features. |
 | [Search](https://github.com/tmcgee/cmv-widgets#search) | Used in conjunction with the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget to provide a user interface for querying feature layers, tables and related records. |
 | [Share](https://github.com/tmcgee/cmv-widgets#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
 | [TimeSlider](https://github.com/roemhildtg/CMV_Widgets#timeslider) | Control the current display of all time enabled layers on the map using a simple Esri TimeSlider widget. |
 | [TimeSlider Advanced](https://github.com/vojvod/CMV_TimeSlider_Widget) | Control all time enabled layers on the map. It allows you to set the startTime and endTime dynamically. |
+| [Toggle StreetView Tiles](https://github.com/tmcgee/cmv-widgets#toggle-streetview-tiles) | Used in conjunction with the CMV StreetView widget or the [Open External Map](https://github.com/tmcgee/cmv-widgets#open-external-map) widget. Shows a StreetView tiles layer when waiting for a map click to get coordinates for the respective widgets. |
 | [What3Words](https://github.com/tmcgee/cmv-widgets#what3words) | A simple widget to send a 3 word address or lat/lng to what3words and zoom the map to the resulting location. The lat/lng and 3 word address for the location are displayed from the search result. |
 | [WMS Basemaps](https://github.com/ishiland/cmv-wms-basemaps) | Simulates a WMS Layer as a basemap by reordering the WMS layer to the bottom layer. This works in place of the core CMV basemap widget. |
 | [Zoom To Extent](https://github.com/evermanwa/Zoom-To-Extent) | Zoom to a specific area on the map based off of a drawn extent. |
