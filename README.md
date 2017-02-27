@@ -45,7 +45,7 @@ Have a widget to add? See [Contributing](https://github.com/DavidSpriggs/cmv-con
 | [QR Code](https://github.com/tmcgee/cmv-widgets/tree/master#qr-code) | Shows a QR code for the current map to open mobile applications on your phone/tablet. |
 | [Query Statistics](https://github.com/cwdotgis/cmv-widgets/tree/master/widgets) | Query summary statistics for a selected feature service's features in the current map view. |
 | [Related Records](https://github.com/roemhildtg/CMV_Widgets#relatedrecordstable) | Queries related records of feature layers and displays results in a tabbed dgrid tables. |
-| [Report](https://github.com/tmcgee/cmv-widgets#report) | Highly configurable widget used to create a mult-page PDF report from a single feature or multiple features. |
+| [Report](https://github.com/tmcgee/cmv-widgets#report) | Highly configurable widget used to create a multi-page PDF report from a single feature or multiple features. |
 | [Search](https://github.com/tmcgee/cmv-widgets#search) | Used in conjunction with the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget to provide a user interface for querying feature layers, tables and related records. |
 | [Share](https://github.com/tmcgee/cmv-widgets#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
 | [TimeSlider](https://github.com/roemhildtg/CMV_Widgets#timeslider) | Control the current display of all time enabled layers on the map using a simple Esri TimeSlider widget. |
