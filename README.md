@@ -29,7 +29,7 @@ Widgets that extract and manipulate the display of data in the application.
 | Widget | Description |
 | :----: | ----------- |
 | [Advanced Search Widget ](https://github.com/vojvod/CMV_AdvancedSearch_Widget) | Used together with [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget to query feature layers. With this widget you can: 1.search by attributes 2. search by location 3. search by address 4. search by other selected features. |
-| [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) | A highly configurable widget to display the results of one or more QueryTasks. |
+| [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) | A highly configurable widget to display the results of one or more Query, Find or Geoprocessor Tasks. |
 | [Export](https://github.com/tmcgee/cmv-widgets#export) | Export features from the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets. Features can be exported in tabular formats such as Excel and CSV as well as spatial formats such as Esri shapefiles, KML and GeoJSON.
 | [Export to shapefile](https://github.com/aspetkov/cmv-widgets/tree/master/JS2Shapefile) | A javascript library for generating ESRI shapefiles in the client from Arcgis javascript map graphics with supporting a UTF-8 encoding.
 | [Extract](https://github.com/tr3vorm/cmv-extract-widget) | TitlePane widget to extract selected layer from current extents using geoprocessing tool  (clip and ship). |
