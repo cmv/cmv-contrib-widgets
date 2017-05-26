@@ -14,6 +14,7 @@ Widgets that add new types of layers and additional layer data to a map.
 | [Drag and Drop](http://github.com/BrianBunker/cmv-widgets/tree/master/DnD) | Add data to the map viewer by dragging and dropping resources onto the map or widget. |
 | [Dynamic Feature Layer Renderer ](https://github.com/vojvod/CMV_Renderer_Widget) | It renders and adds a feature layer on the map dynamically. It can be used for map services hosted in ArcGIS for Server version 10.1 or above. |
 | [Heatmap Toggle](https://github.com/roemhildtg/CMV_Widgets#heatmap) | Toggle a heat map on point layers using the dynamic sublayer menu. |
+| [Label Layers](https://github.com/roemhildtg/cmv-widgets/tree/master/widgets/LabelLayer) | A configureable label widget allowing users to create and customize labels on dynamic and feature layers
 | [Layer Labels](https://github.com/tmcgee/cmv-widgets#layer-labels) | A simple widget to add labels for one or more Feature Layers. |
 | [Layer Swapper](https://github.com/jebu75/cmv-layer-swapper) | Title pane widget to allow swapping in/out a configurable list of dynamic or tile layers. |
 | [Layer Toggle](https://github.com/tmcgee/cmv-widgets#layer-toggle) | A simple widget to toggle the visibility of a set of layers. Only a single layer in the set can be visible at any time. All others are turned off when the target layer's visibility is set. |
@@ -33,6 +34,7 @@ Widgets that extract and manipulate the display of data in the application.
 | [Export](https://github.com/tmcgee/cmv-widgets#export) | Export features from the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets. Features can be exported in tabular formats such as Excel and CSV as well as spatial formats such as Esri shapefiles, KML and GeoJSON.
 | [Export to shapefile](https://github.com/aspetkov/cmv-widgets/tree/master/JS2Shapefile) | A javascript library for generating ESRI shapefiles in the client from Arcgis javascript map graphics with supporting a UTF-8 encoding.
 | [Extract](https://github.com/tr3vorm/cmv-extract-widget) | TitlePane widget to extract selected layer from current extents using geoprocessing tool  (clip and ship). |
+| [Filter](https://github.com/roemhildtg/cmv-widgets/tree/master/widgets/Filter) | A simple widget allowing users to apply custom filters to a map layer or table
 | [Identify Panel](https://github.com/dougrchamberlain/IdentifyPanel) | TitlePane widget to allow identify results to be viewed on the side instead of in a popup/infowindow. |
 | [Nearby](http://github.com/BrianBunker/cmv-widgets/tree/master//Nearby) | Discover features within a radius or drivetime of a map click location. |
 | [Query Statistics](https://github.com/cwdotgis/cmv-widgets/tree/master/widgets) | Query summary statistics for a selected feature service's features in the current map view. |
