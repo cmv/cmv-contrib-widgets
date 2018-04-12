@@ -62,6 +62,7 @@ Widgets that display and modify various aspects of the map.
 | [FullScreen](https://github.com/tmcgee/cmv-widgets#fullscreen) | A simple widget containing a button to toggle the CMV map to a maximized full screen view and restore it to the original dimensions. |
 | [Google nearby](https://github.com/aspetkov/cmv-widgets/tree/master/GoogleNearby) | Discover objects within a radius of a map click location from Google database. Add export on the objects to shapefile. |
 | [Goto Coordinate](http://github.com/BrianBunker/cmv-widgets/tree/master//Goto) | Center the map at a specific location in geographic, UTM, or MGRS coordinates. |
+| [Locator Control Widget](https://github.com/tmcgee/cmv-widgets#locator-control) | A widget to allow the user to change the properties of the CMV Locate Button widget in real-time. |
 | [Map Extent Widget](https://github.com/ERS-Long/MapExtent) | CMV Widget to get map extent and zoom level. |
 | [Mapillary](https://github.com/tmcgee/cmv-widgets/tree/master#mapillary) | A replacement for the CMV Google StreetView widget that display street level imagery from [Mapillary](https://www.mapillary.com/) using [MapillaryJS](https://github.com/mapillary/mapillary-js). |
 | [Navigation Hash](http://github.com/BrianBunker/cmv-widgets/tree/master//MapNavigationHash) | Display the map center point in the url and use the browser back/forward buttons as previous/next extent buttons. |
