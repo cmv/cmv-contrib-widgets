@@ -11,6 +11,7 @@ Widgets that add new types of layers and additional layer data to a map.
 | Widget | Description |
 | :----: | ----------- |
 | [Add WMS Layers dynamically ](https://github.com/vojvod/CMV_addWMSLayer_Widget) | A double widget for adding WMS Layers using a combobox or a textbox. |
+| [Advanced Draw](https://github.com/ishiland/cmv-widgets#advanceddraw) | Add text, redo/undo drawn features and additional styling options. |
 | [Drag and Drop](http://github.com/BrianBunker/cmv-widgets/tree/master/DnD) | Add data to the map viewer by dragging and dropping resources onto the map or widget. |
 | [Dynamic Feature Layer Renderer ](https://github.com/vojvod/CMV_Renderer_Widget) | It renders and adds a feature layer on the map dynamically. It can be used for map services hosted in ArcGIS for Server version 10.1 or above. |
 | [Heatmap Toggle](https://github.com/roemhildtg/CMV_Widgets#heatmap) | Toggle a heat map on point layers using the dynamic sublayer menu. |
