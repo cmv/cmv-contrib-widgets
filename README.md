@@ -11,6 +11,7 @@ Widgets that add new types of layers and additional layer data to a map.
 | Widget | Description |
 | :----: | ----------- |
 | [Add WMS Layers dynamically ](https://github.com/vojvod/CMV_addWMSLayer_Widget) | A double widget for adding WMS Layers using a combobox or a textbox. |
+| [Advanced Draw](https://github.com/ishiland/cmv-widgets#advanceddraw) | Add text, redo/undo drawn features and additional styling options. |
 | [Drag and Drop](http://github.com/BrianBunker/cmv-widgets/tree/master/DnD) | Add data to the map viewer by dragging and dropping resources onto the map or widget. |
 | [Dynamic Feature Layer Renderer ](https://github.com/vojvod/CMV_Renderer_Widget) | It renders and adds a feature layer on the map dynamically. It can be used for map services hosted in ArcGIS for Server version 10.1 or above. |
 | [Heatmap Toggle](https://github.com/roemhildtg/CMV_Widgets#heatmap) | Toggle a heat map on point layers using the dynamic sublayer menu. |
@@ -21,7 +22,7 @@ Widgets that add new types of layers and additional layer data to a map.
 | [NEXRAD](https://github.com/goriliukasbuxton/Nexrad) | NEXRAD weather radar widget. |
 | [PointClustering](https://github.com/ERS-Long/PointClustering) | PointClustering of point sublayer (CMV1.3.4) |
 | [Toggle StreetView Tiles](https://github.com/tmcgee/cmv-widgets#toggle-streetview-tiles) | Used in conjunction with the CMV StreetView widget or the [Open External Map](https://github.com/tmcgee/cmv-widgets#open-external-map) widget. Shows a StreetView tiles layer when waiting for a map click to get coordinates for the respective widgets. |
-| [WMS Basemaps](https://github.com/ishiland/cmv-wms-basemaps) | Simulates a WMS Layer as a basemap by reordering the WMS layer to the bottom layer. This works in place of the core CMV basemap widget. |
+| [WMS Basemaps](https://github.com/ishiland/cmv-widgets#wmsbasemaps) | Use WMS Layers as basemaps. Works in place of the core CMV Basemap widget. |
 
 ## Data, Search, And Query Widgets
 
@@ -87,6 +88,7 @@ Widgets that display and modify various aspects of the map.
 | [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
 | [MessageBox](https://github.com/tmcgee/cmv-widgets#messagebox) | Show an Alert or Confirmation modal dialog box. Intended to be called from other widgets. |
 | [Metadata Dialog](https://github.com/roemhildtg/CMV_Widgets#metadatadialog) | Query and display the sublayers metadata dialog using the dynamic sublayer menu. |
+| [My Info](https://github.com/ishiland/cmv-widgets#myinfo) | Add HTML to a specified dom node. Intended to be used to display information about your organization in the `sidebarLeft` node. |
 | [Print Plus](https://github.com/tmcgee/cmv-widgets#print-plus) | An updated version of the PrintPlus widget originally created by [@LarryStout](https://github.com/LarryStout). |
 | [QR Code](https://github.com/tmcgee/cmv-widgets#qr-code) | Shows a QR code for the current map to open mobile applications on your phone/tablet. |
 | [Share](https://github.com/tmcgee/cmv-widgets/#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
