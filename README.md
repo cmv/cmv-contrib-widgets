@@ -21,7 +21,7 @@ Widgets that add new types of layers and additional layer data to a map.
 | [NEXRAD](https://github.com/goriliukasbuxton/Nexrad) | NEXRAD weather radar widget. |
 | [PointClustering](https://github.com/ERS-Long/PointClustering) | PointClustering of point sublayer (CMV1.3.4) |
 | [Toggle StreetView Tiles](https://github.com/tmcgee/cmv-widgets#toggle-streetview-tiles) | Used in conjunction with the CMV StreetView widget or the [Open External Map](https://github.com/tmcgee/cmv-widgets#open-external-map) widget. Shows a StreetView tiles layer when waiting for a map click to get coordinates for the respective widgets. |
-| [WMS Basemaps](https://github.com/ishiland/cmv-wms-basemaps) | Simulates a WMS Layer as a basemap by reordering the WMS layer to the bottom layer. This works in place of the core CMV basemap widget. |
+| [WMS Basemaps](https://github.com/ishiland/cmv-widgets#wmsbasemaps) | Use WMS Layers as basemaps. Works in place of the core CMV Basemap widget. |
 
 ## Data, Search, And Query Widgets
 
