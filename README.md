@@ -88,6 +88,7 @@ Widgets that display and modify various aspects of the map.
 | [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
 | [MessageBox](https://github.com/tmcgee/cmv-widgets#messagebox) | Show an Alert or Confirmation modal dialog box. Intended to be called from other widgets. |
 | [Metadata Dialog](https://github.com/roemhildtg/CMV_Widgets#metadatadialog) | Query and display the sublayers metadata dialog using the dynamic sublayer menu. |
+| [My Info](https://github.com/ishiland/cmv-widgets#myinfo) | Add HTML to a specified dom node. Intended to be used to display information about your organization in the `sidebarLeft` node. |
 | [Print Plus](https://github.com/tmcgee/cmv-widgets#print-plus) | An updated version of the PrintPlus widget originally created by [@LarryStout](https://github.com/LarryStout). |
 | [QR Code](https://github.com/tmcgee/cmv-widgets#qr-code) | Shows a QR code for the current map to open mobile applications on your phone/tablet. |
 | [Share](https://github.com/tmcgee/cmv-widgets/#share) | Share your map by using Facebook, Twitter, Google+, E-Mail, Link, or embedded iFrame code. |
