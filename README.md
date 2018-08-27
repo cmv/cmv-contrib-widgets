@@ -14,6 +14,7 @@ Widgets that add new types of layers and additional layer data to a map.
 | [Advanced Draw](https://github.com/ishiland/cmv-widgets#advanceddraw) | Add text, redo/undo drawn features and additional styling options. |
 | [Drag and Drop](http://github.com/BrianBunker/cmv-widgets/tree/master/DnD) | Add data to the map viewer by dragging and dropping resources onto the map or widget. |
 | [Dynamic Feature Layer Renderer ](https://github.com/vojvod/CMV_Renderer_Widget) | It renders and adds a feature layer on the map dynamically. It can be used for map services hosted in ArcGIS for Server version 10.1 or above. |
+| [Heatmap](https://github.com/tmcgee/cmv-widgets#heatmap) | The Heatmap widget uses a HeatmapRenderer to render feature layer data into a raster visualization that emphasizes areas of higher density or weighted values. |
 | [Heatmap Toggle](https://github.com/roemhildtg/CMV_Widgets#heatmap) | Toggle a heat map on point layers using the dynamic sublayer menu. |
 | [Label Layers](https://github.com/roemhildtg/cmv-widgets/tree/master/widgets/LabelLayer) | A configureable label widget allowing users to create and customize labels on dynamic and feature layers
 | [Layer Labels](https://github.com/tmcgee/cmv-widgets#layer-labels) | A simple widget to add labels for one or more Feature Layers. |
@@ -26,7 +27,7 @@ Widgets that add new types of layers and additional layer data to a map.
 
 ## Data, Search, And Query Widgets
 
-Widgets that extract and manipulate the display of data in the application. 
+Widgets that extract and manipulate the display of data in the application.
 
 | Widget | Description |
 | :----: | ----------- |
@@ -46,7 +47,7 @@ Widgets that extract and manipulate the display of data in the application.
 
 ## Time Widgets
 
-Widgets that control and modify time (and potentially spacetime). 
+Widgets that control and modify time (and potentially spacetime).
 
 | Widget | Description |
 | :----: | ----------- |
@@ -56,7 +57,7 @@ Widgets that control and modify time (and potentially spacetime).
 
 ## Map Navigation and Control Widgets
 
-Widgets that display and modify various aspects of the map. 
+Widgets that display and modify various aspects of the map.
 
 | Widget | Description |
 | :----: | ----------- |
@@ -85,7 +86,8 @@ Widgets that display and modify various aspects of the map.
 | [ElevationsProfileTable](https://github.com/goriliukasbuxton/ElevationProfile2) | Bottom Pane widget to draw elevation profile. |(https://github.com/tmcgee/cmv-widgets#attributes-tables) widget or other widgets that have a [dgrid](http://dgrid.io). |
 | [Full Motion Video](https://github.com/LG-Spatial/cmv-fmv-widgets) | Full Motion Video widgets for integration with [FMV Server](http://fmvserver.com/shop/uncategorized/full-motion-video-server/). |
 | [Geoprocessor](https://github.com/tmcgee/cmv-widgets#geoprocessor) | An example widget demonstrating the display of results from a Geoprocessing Task in the [Attributes Tables](https://github.com/tmcgee/cmv-widgets#attributes-tables) widget. |
-| [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters.
+| [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters. |
+| [Introduction](https://github.com/tmcgee/cmv-widgets#introduction) | The Introduction Widget provides a product tour or tutorial for your application using [IntroJS](https://introjs.com/). |
 | [MessageBox](https://github.com/tmcgee/cmv-widgets#messagebox) | Show an Alert or Confirmation modal dialog box. Intended to be called from other widgets. |
 | [Metadata Dialog](https://github.com/roemhildtg/CMV_Widgets#metadatadialog) | Query and display the sublayers metadata dialog using the dynamic sublayer menu. |
 | [My Info](https://github.com/ishiland/cmv-widgets#myinfo) | Add HTML to a specified dom node. Intended to be used to display information about your organization in the `sidebarLeft` node. |
