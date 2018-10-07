@@ -89,6 +89,7 @@ Widgets that display and modify various aspects of the map.
 | [Google Analytics](https://github.com/jebu75/cmv-google-analytics) | Sends Google Analytics events based on configurable parameters. |
 | [Introduction](https://github.com/tmcgee/cmv-widgets#introduction) | The Introduction Widget provides a product tour or tutorial for your application using [IntroJS](https://introjs.com/). |
 | [Map Loading](https://github.com/tmcgee/cmv-widgets#map-loading) | A widget to add a `Loading` indicator in the center of the map. |
+| [Maptiks](https://github.com/tmcgee/cmv-widgets#maptiks) | A widget to add detailed map analytics to any CMV application using [Maptiks](https://maptiks.com). Maptiks provides in-depth user insights by tracking how visitors click, pan and zoom on your maps. |
 | [MessageBox](https://github.com/tmcgee/cmv-widgets#messagebox) | Show an Alert or Confirmation modal dialog box. Intended to be called from other widgets. |
 | [Metadata Dialog](https://github.com/roemhildtg/CMV_Widgets#metadatadialog) | Query and display the sublayers metadata dialog using the dynamic sublayer menu. |
 | [My Info](https://github.com/ishiland/cmv-widgets#myinfo) | Add HTML to a specified dom node. Intended to be used to display information about your organization in the `sidebarLeft` node. |
